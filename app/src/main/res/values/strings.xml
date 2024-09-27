@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cresent Food</string>
+
+    // Tab Menu
+    <string name="home">Меню</string>
+    <string name="cart">Корзина</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="contact">Контакт</string>
+    <string name="account">Учетная запись</string>
+    <string name="order">Оформить заказ</string>
+
+    // action
+    <string name="action_ok">Ок</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_edit">Редактировать</string>
+
+    // dialog
+    <string name="waiting_message">Пожалуйста, подождите…</string>
+
+    // msg
+    <string name="error_not_connect_to_internet">Пожалуйста, проверьте ваше сетевое соединение</string>
+    <string name="msg_exit_app">Выйти из приложения?</string>
+
+    <string name="category_title">Список блюд</string>
+    <string name="food_suggest">Предлагаемые блюда</string>
+    <string name="food_detail_title">Детали еды</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="added_to_cart">Добавлено в корзину</string>
+    <string name="cancel">Отмена</string>
+    <string name="send_feedback_success">Отзыв успешно отправлен!</string>
+    <string name="name_require">Пожалуйста, введите полное имя</string>
+    <string name="comment_require">Пожалуйста, введите ваш отзыв</string>
+    <string name="order_cart">Заказ</string>
+    <string name="total">Сумма:</string>
+    <string name="delete">Удалить</string>
+    <string name="confirm_delete_food">Подтвердить удаление из корзины</string>
+    <string name="message_delete_food">Вы хотите удалить это блюдо?</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="order_detail">Информация для заказа</string>
+    <string name="address_delivery">Адрес доставки</string>
+    <string name="message_enter_infor_order">Пожалуйста, заполните полную информацию о доставке</string>
+    <string name="hint_search_name">Имя блюда…</string>
+    <string name="price_label">Цена:</string>
+    <string name="description_label">Описывать</string>
+    <string name="more_image_label">Другие изображения</string>
+    <string name="payment_method">Способы оплаты</string>
+    <string name="payment_method_cash">Банковская карта</string>
+    <string name="label_sub">-</string>
+    <string name="label_add">+</string>
+    <string name="label_quantity_1">1</string>
+    <string name="label_price_0">0 Рублей</string>
+
+    <string name="feedback_name">Фамилия и имя (*)</string>
+    <string name="feedback_email">Почта</string>
+    <string name="feedback_phone">Телефон</string>
+    <string name="feedback_comment">Комментарий (*)</string>
+    <string name="send_feedback">Отправить отзыв</string>
+
+    <string name="label_id">Код заказа:</string>
+    <string name="label_email">Почта:</string>
+    <string name="label_name">Фамилия и имя:</string>
+    <string name="label_phone">Номер телефон:</string>
+    <string name="label_address">Адрес доставки:</string>
+    <string name="label_price">Сумма:</string>
+    <string name="label_date">Дата заказа:</string>
+    <string name="label_payment">Платить:</string>
+    <string name="label_menu">Меню:</string>
+    <string name="label_popular">Популярные блюда:</string>
+
+    <string name="status_new">Ожидание обработки</string>
+    <string name="status_cancel">Заказ отменен</string>
+    <string name="status_process">Доставка</string>
+    <string name="status_success">Успех</string>
+    <string name="status_fail">Отказ</string>
+    <string name="quantity">Количество:</string>
+    <string name="list_food_order">Список блюд в заказе</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Call Phone</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_youtube">Vkontakte</string>
+    <string name="label_zalo">Zalo</string>
+
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_up_user">Зарегистрировать учетную запись</string>
+    <string name="sign_in_user">Вход в учетную запись</string>
+    <string name="admin">Администраторы</string>
+    <string name="user">Пользователь</string>
+    <string name="have_account">У вас уже есть учетная запись?</string>
+    <string name="have_not_account">Нет аккаунта?</string>
+    <string name="sign_in">Войти</string>
+    <string name="forgot_password">Забыли пароль</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="sign_out">Выйти из системы</string>
+    <string name="reset_password">Повторная отправка пароля</string>
+    <string name="order_history">История заказов</string>
+    <string name="report">Отчет о продажах</string>
+    <string name="add_food">Добавить еду</string>
+    <string name="edit_food">Редактировать еду</string>
+    <string name="currency_food"> Рублей</string>
+    <string name="percent">%</string>
+    <string name="popular">Популярный</string>
+
+    <string name="revenue">Доход</string>
+    <string name="label_total_revenue">Общий доход:</string>
+    <string name="column_stt">STT</string>
+    <string name="column_food_name">Название блюда</string>
+    <string name="column_quantity">Количество</string>
+    <string name="column_total_amount">Итого</string>
+    <string name="label_date_from">C даты:</string>
+    <string name="label_date_to">До даты:</string>
+
+    <string name="food_name">Название блюда(*)</string>
+    <string name="food_description">Описание блюд(*)</string>
+    <string name="food_price">Цена(*)</string>
+    <string name="food_discount">Акция(*)</string>
+    <string name="food_image">Ссылка на фотографии(*)</string>
+    <string name="food_image_banner">Ссылка на баннера(*)</string>
+    <string name="food_image_other">Ссылка на другие изображения</string>
+    <string name="food_image_other_note">Выделяются запятыми [ ; ]</string>
+
+    <string name="hint_email">Электронная почта</string>
+    <string name="hint_password">Пароль...</string>
+    <string name="hint_password_old">Старый пароль...</string>
+    <string name="hint_password_new">Новыый пароль...</string>
+    <string name="hint_password_confirm">Подтвердите новый пароль...</string>
+    <string name="hint_name">Название…</string>
+    <string name="hint_description">Описывать…</string>
+    <string name="hint_price">Цена…</string>
+    <string name="hint_discount">Скидка…</string>
+    <string name="hint_image">Ссылка на фото…</string>
+    <string name="hint_image_banner">Ссылка на изображение баннера…</string>
+    <string name="hint_image_other">Другие изображения…</string>
+
+    <string name="msg_get_date_error">Произошла ошибка, повторите попытку позже</string>
+    <string name="msg_order_success">Заказ успешно оформлен, пожалуйста, проверьте заказ в разделе История</string>
+
+    <string name="msg_confirm_login_another_device">Выйти из приложения?</string>
+    <string name="msg_email_require">Введите адрес электронной почты</string>
+    <string name="msg_password_require">Введите пароль</string>
+    <string name="msg_old_password_require">Введите старый пароль</string>
+    <string name="msg_new_password_require">Введите новый пароль</string>
+    <string name="msg_confirm_password_require">Подтвердите новый пароль</string>
+    <string name="msg_old_password_invalid">Старый пароль неверен, введите его заново</string>
+    <string name="msg_confirm_password_invalid">Подтвердите, что новый пароль не совпадает</string>
+    <string name="msg_new_password_invalid">Новый пароль должен отличаться от старого</string>
+    <string name="msg_change_password_successfully">Пароль успешно изменен</string>
+    <string name="msg_reset_password_successfully">Пароль успешно сброшен, проверьте свою почту</string>
+    <string name="msg_email_invalid">Неверный адрес электронной почты, введите еще раз</string>
+    <string name="msg_email_invalid_admin">Учетные записи администраторов должны быть в формате …@admin.com</string>
+    <string name="msg_email_invalid_user">Неправильный формат электронной почты для пользователя</string>
+    <string name="msg_sign_up_error">Регистрация не прошла, попробуйте еще раз</string>
+    <string name="msg_sign_in_error">Войти не удалось, попробуйте еще раз</string>
+
+    <string name="msg_name_food_require">Пожалуйста, введите название блюда</string>
+    <string name="msg_description_food_require">Пожалуйста, введите описание блюда</string>
+    <string name="msg_price_food_require">Пожалуйста, укажите цену блюда</string>
+    <string name="msg_discount_food_require">Пожалуйста, укажите процент за промоакцию</string>
+    <string name="msg_image_food_require">Пожалуйста, укажите ссылку на фотографию блюда</string>
+    <string name="msg_image_banner_food_require">Введите ссылку на изображение баннера</string>
+    <string name="msg_add_food_success">Успешно добавлены блюда !!!</string>
+    <string name="msg_edit_food_success">Успешно отредактировано блюдо !!!</string>
+    <string name="msg_delete_title">Подтвердите удаление</string>
+    <string name="msg_confirm_delete">Вы уверены, что хотите удалить этот элемент??</string>
+    <string name="msg_delete_movie_successfully">Удаление блюда успешно !!!</string>
+</resources>
